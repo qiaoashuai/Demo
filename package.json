@@ -1,0 +1,11 @@
+{
+  "name": "com.git.packagedamo",
+  "displayName": "PackageDamo",
+  "version": "1.0.4",
+  "author": {
+    "name": "KyoheiOkawa"
+  },
+  "publishConfig": {
+    "registry": "https://gitee.com/xiong-jc/package-damo.git"
+  }
+}
